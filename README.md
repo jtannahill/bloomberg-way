@@ -1,6 +1,13 @@
 <h1 align="center">The Bloomberg Way</h1>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/type-reference-informational" />
+  <img src="https://img.shields.io/badge/style_guide-journalism-0F2D52" />
+  <img src="https://img.shields.io/badge/format-Markdown-000000?logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/github/last-commit/jtannahill/bloomberg-way" />
+</p>
+
+<p align="center">
   <strong>Reference notes for <em>The Bloomberg Way: A Guide for Reporters and Editors</em></strong><br/>
   <em>25th Anniversary Edition — Matthew Winkler, Wiley 2014</em>
 </p>
