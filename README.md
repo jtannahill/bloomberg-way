@@ -9,7 +9,7 @@
 
 <p align="center">
   <strong>Reference notes for <em>The Bloomberg Way: A Guide for Reporters and Editors</em></strong><br/>
-  <em>25th Anniversary Edition — Matthew Winkler, Wiley 2014</em>
+  <em>25th Anniversary Edition: Matthew Winkler, Wiley 2014</em>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ---
 
-A comprehensive paraphrased reference compiled from Matthew Winkler's editorial style guide — the internal standard used by Bloomberg News reporters and editors since 1990.
+A comprehensive paraphrased reference compiled from Matthew Winkler's editorial style guide: the internal standard used by Bloomberg News reporters and editors since 1990.
 
 These are notes for personal editorial use, not a verbatim transcript. All principles and frameworks are the intellectual property of Matthew Winkler and Bloomberg LP.
 
@@ -30,32 +30,32 @@ These are notes for personal editorial use, not a verbatim transcript. All princ
 
 | Chapter | Topic |
 |---------|-------|
-| 1 | [10 Guiding Principles](REFERENCE.md#chapter-1-the-bloomberg-way) — the non-negotiables |
-| 2 | [The Five Fs](REFERENCE.md#chapter-2-the-five-fs) — Factual, First, Fastest, Final, Future |
-| 3 | [The Four-Paragraph Lead](REFERENCE.md#chapter-3-the-four-paragraph-lead) — Theme, Details, Quote, Nut |
-| 4 | [Show, Don't Tell](REFERENCE.md#chapter-4-show-dont-tell) — facts over characterization |
-| 5 | [Writing Well](REFERENCE.md#chapter-5-writing-well-matters) — Orwell's rules, plain language, active voice |
-| 6 | [Preparation](REFERENCE.md#chapter-6-preparation) — templates, source lists, logistics |
-| 7 | [Headlines](REFERENCE.md#chapter-7-headlines) — 64 chars, 5 elements, first-four-words rule |
-| 8 | [Covering News](REFERENCE.md#chapter-8-covering-news) — breaking news, attribution, anonymous sources |
+| 1 | [10 Guiding Principles](REFERENCE.md#chapter-1-the-bloomberg-way): the non-negotiables |
+| 2 | [The Five Fs](REFERENCE.md#chapter-2-the-five-fs): Factual, First, Fastest, Final, Future |
+| 3 | [The Four-Paragraph Lead](REFERENCE.md#chapter-3-the-four-paragraph-lead): Theme, Details, Quote, Nut |
+| 4 | [Show, Don't Tell](REFERENCE.md#chapter-4-show-dont-tell): facts over characterization |
+| 5 | [Writing Well](REFERENCE.md#chapter-5-writing-well-matters): Orwell's rules, plain language, active voice |
+| 6 | [Preparation](REFERENCE.md#chapter-6-preparation): templates, source lists, logistics |
+| 7 | [Headlines](REFERENCE.md#chapter-7-headlines): 64 chars, 5 elements, first-four-words rule |
+| 8 | [Covering News](REFERENCE.md#chapter-8-covering-news): breaking news, attribution, anonymous sources |
 
 ### Beat Playbooks
 
 | Chapter | Topic |
 |---------|-------|
-| 13 | [The Data Advantage](REFERENCE.md#chapter-13-the-data-advantage) — 50+ Bloomberg terminal functions by category |
-| 14 | [Five Easy Pieces](REFERENCE.md#chapter-14-five-easy-pieces) — Economy, Markets, Government, Industries, Companies |
-| 15 | [Markets](REFERENCE.md#chapter-15-markets) — stocks, bonds, currencies, commodities, Four Pillars |
-| 16 | [Companies](REFERENCE.md#chapter-16-companies) — earnings, M&A valuation, financing, IPOs |
-| 17 | [Economies](REFERENCE.md#chapter-17-economies) — five elements, data coverage, enterprise |
-| 18 | [Government](REFERENCE.md#chapter-18-government) — core questions, opinion polls, follow the money |
+| 13 | [The Data Advantage](REFERENCE.md#chapter-13-the-data-advantage): 50+ Bloomberg terminal functions by category |
+| 14 | [Five Easy Pieces](REFERENCE.md#chapter-14-five-easy-pieces): Economy, Markets, Government, Industries, Companies |
+| 15 | [Markets](REFERENCE.md#chapter-15-markets): stocks, bonds, currencies, commodities, Four Pillars |
+| 16 | [Companies](REFERENCE.md#chapter-16-companies): earnings, M&A valuation, financing, IPOs |
+| 17 | [Economies](REFERENCE.md#chapter-17-economies): five elements, data coverage, enterprise |
+| 18 | [Government](REFERENCE.md#chapter-18-government): core questions, opinion polls, follow the money |
 
 ### Reference
 
 | Chapter | Topic |
 |---------|-------|
-| 19 | [Grammar](REFERENCE.md#chapter-19-grammar) — subject-verb, hyphens, which/that, has/have, who/whom |
-| 20 | [Words and Terms](REFERENCE.md#chapter-20-words-and-terms) — A–Z financial style glossary |
+| 19 | [Grammar](REFERENCE.md#chapter-19-grammar): subject-verb, hyphens, which/that, has/have, who/whom |
+| 20 | [Words and Terms](REFERENCE.md#chapter-20-words-and-terms): A–Z financial style glossary |
 
 ---
 
@@ -63,10 +63,10 @@ These are notes for personal editorial use, not a verbatim transcript. All princ
 
 ### The Four-Paragraph Lead
 ```
-P1 — Theme:   what happened + why it matters + how much + vs. what
-P2 — Details: supporting facts, stats, named people, time/place
-P3 — Quote:   authority with most at stake, plain English
-P4 — Nut:     what's at stake for the reader, what happens next
+P1: Theme:   what happened + why it matters + how much + vs. what
+P2: Details: supporting facts, stats, named people, time/place
+P3: Quote:   authority with most at stake, plain English
+P4: Nut:     what's at stake for the reader, what happens next
 ```
 
 ### The Five Fs
@@ -82,11 +82,11 @@ Down: fell · dropped · declined · slumped · retreated · tumbled · lost
 
 ### Attribution Rules
 ```
-✓ Use "said" — it's neutral
+✓ Use "said": it's neutral
 ✗ Never: conceded, noted, claimed, explained, remarked, observed, opined
 ✓ Anonymous sources: "asked not to be named" + reason why
 ✗ Never direct quotes from anonymous sources
-✗ Never: "sources said" — name the person
+✗ Never: "sources said": name the person
 ```
 
 ### Numbers
@@ -110,4 +110,4 @@ profit warning · profit-taking · ongoing · upcoming · lavishly compensated
 ## Source
 
 > *The Bloomberg Way: A Guide for Reporters and Editors*, 25th Anniversary Edition (13th Edition)
-> Matthew Winkler — Wiley, 2014 — ISBN 978-1-118-84226-3
+> Matthew Winkler: Wiley, 2014: ISBN 978-1-118-84226-3
